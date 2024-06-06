@@ -10,7 +10,7 @@ import { getEvents } from '@/data'
 import { EllipsisVerticalIcon, MagnifyingGlassIcon } from '@heroicons/react/16/solid'
 
 export const metadata = {
-  title: 'Events',
+  title: 'Projects',
 }
 
 export default async function Events() {
